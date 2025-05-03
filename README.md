@@ -1,4 +1,4 @@
-### Install
+user.name### Install
 
 ```bash
 curl -L https://raw.github.com/guilouro/dotfiles/master/install | bash
